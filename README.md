@@ -4,7 +4,7 @@
 This is a clone of the Codevo e-commerce website, which is focused on men and women wear shopping. The project is built using HTML, CSS, and Bootstrap and is completely responsive to different screen sizes and devices.
 
 ### Website Preview
-[Link to Live Demo](https://github.com/voidsoul-host/Frontend-1-Module/)
+[Link to Live Demo](https://dalvigb.github.io/module-test/)
 
 ### Features
 - Responsive design for seamless user experience on various devices.
@@ -14,24 +14,13 @@ This is a clone of the Codevo e-commerce website, which is focused on men and wo
 ### Installation and Usage
 1. Clone the repository:
    ```
-   git clone https://github.com/voidsoul-host/Frontend-1-Module.git
+   git clone git@github.com:Dalvigb/module-test.git
    ```
 2. Open the project folder:
    ```
-   cd Frontend-1-Module
+   cd module-test
    ```
 3. Open `index.html` in your web browser to view the home page.
-
-### Screenshots
-![image](https://github.com/voidsoul-host/Frontend-1-Module/assets/120613863/53a00474-c0ad-4dc0-ad6d-3c7c6ec170cf)
-
-Mobile L
-![image](https://github.com/voidsoul-host/Frontend-1-Module/assets/120613863/e8954ec2-bbac-4746-bc3d-d32605e9c87f)
-
-
-Tablet
-![image](https://github.com/voidsoul-host/Frontend-1-Module/assets/120613863/b0803d4e-5450-47bf-8dd2-ab4c963e31e8)
-
 
 ### Technologies Used
 - HTML
@@ -46,7 +35,7 @@ This project is licensed under the [MIT License](LICENSE)
 
 ### Contact
 For any questions or feedback, please contact:
-- Sanskar Purohit
-- sanskar.purohit946@gmail.com
+- Govardhan Dalvi
+- dalvigb05@gmail.com
 
 Feel free to explore and contribute to the project. Happy coding!
